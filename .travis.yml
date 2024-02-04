@@ -6,7 +6,7 @@ services:
   - docker
 
 env:
-  - TRAVIS_DEBUG_MODE= true
+  - TRAVIS_DEBUG_MODE="true"
 
 before_script: pip install docker-compose
 
