@@ -1,4 +1,4 @@
-# Recipe App API
+# Travis CI App Task
 
  - Python
  - Django / Django-REST-Framework
